@@ -75,5 +75,5 @@ Anushka Cholke
 
 🔗 LinkedIn: https://in.linkedin.com/in/anushka-cholke-672723293
 
-🌐 GitHub: github.com/anushkacholke
+🌐 GitHub: https://github.com/anushkacholke
 
